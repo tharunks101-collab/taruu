@@ -2,4 +2,3 @@ Initial Code
 Feature A
 Feature B
 Buggy Code
-Wrong pushed change
